@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neklam161
-- 👀 I’m interested in Data Scicence, Computer Programming , Machine learning.
+- 👀 I’m interested in Data Science, Computer Programming , Machine learning.
 - 😎 I enjoy playing Video Games, Music and food!!!
 - 🌱 I’m currently learning Python and many other Programming Languages.
 - Gmail: lyazidlamribah@gmail.com 
